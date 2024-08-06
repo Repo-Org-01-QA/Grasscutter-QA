@@ -98,3 +98,5 @@ You can find the output jar in the root of the project folder.
 ### Troubleshooting 
 
 For a list of common issues and solutions and to ask for help, please join [our Discord server](https://discord.gg/T5vZU6UyeG) and go to the support channel.
+
+## Testing
